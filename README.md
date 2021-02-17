@@ -1,7 +1,7 @@
 # Python browser
 Simplified web browser made in python for a college project.
 Web browser has bookmarks, history, multiple tabs, toolbar.
-It was made on Ubuntu for Ubuntu.
+It was made on window and all linux os 
 
 ![](screenshot.png)
 
@@ -23,15 +23,6 @@ It was made on Ubuntu for Ubuntu.
     ```sh
     python3 main.py 
     ```
-***
-## Meta
+4. ``` for window run batch file name as "requirements,txt"```
 
-Lazar Bojanic<br>
-[@Linkedin](https://www.linkedin.com/in/lbojanic/)<br>
-lazar.bojanic@hotmail.rs<br>
-[@GitHub](https://github.com/LBojanic)<br>
-<br>
-Djordje Dimovic <br>
-[@Linkedin](https://www.linkedin.com/in/dimovicd/)<br>
-dimovicdj@gmail.com<br>
-[@GitHub](https://github.com/dimovicdj)
+
