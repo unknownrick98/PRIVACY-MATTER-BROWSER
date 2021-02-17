@@ -1,0 +1,7 @@
+Google;https://www.google.com/
+YouTube;https://www.youtube.com/
+Google;http://www.google.com/
+Whoogle Search;https://whoogle.sdf.org/
+GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine;https://github.com/benbusby/whoogle-search
+Whoogle Search;https://whoogle.sdf.org/
+Whoogle Search;https://whoogle.sdf.org/
